@@ -8,7 +8,7 @@ seja por whatsapp ou email.
 
 <br>
 
-![Home do Ecoleta](https://media-exp1.licdn.com/dms/image/C4D22AQF_MD1w7X-CbQ/feedshare-shrink_1280/0?e=1594252800&v=beta&t=4rV3fllw5jZIjUDXR9p-6Eg2-_UBjytlbwZ3qWHaAAw)
+![Home do Ecoleta](https://media-exp1.licdn.com/dms/image/C4D22AQF_MD1w7X-CbQ/feedshare-shrink_1280/0?e=1597881600&v=beta&t=wCAEBy6Sc-JtJS5QnsTSf7CRkZpZ2tNRcM1fqtNdc_k)
 
 Foram utilizadas as seguintes tecnologias:
 
